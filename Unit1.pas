@@ -11,6 +11,7 @@ type
   TForm1 = class(TForm)
     Panel1: TPanel;
     Label1: TLabel;
+    Button1: TButton;
   private
     { Private declarations }
   public
