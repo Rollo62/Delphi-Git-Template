@@ -1,2 +1,1 @@
-Basic GIT-Project structure
-
+Delphi Basic GIT-Project template structure
