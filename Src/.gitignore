@@ -26,14 +26,14 @@
 #
 
 # Delphi compiler-generated binaries (safe to delete)
-Src/Win32/
-Src/Win64/
-Src/IOSDevice32/
-Src/IOSDevice64/
-Src/IOSSimulator/
-Src/Osx32/
-Src/Osx64/
-Src/Android/
+Win32/
+Win64/
+IOSDevice32/
+IOSDevice64/
+IOSSimulator/
+Osx32/
+Osx64/
+Android/
 *.exe
 *.dll
 *.bpl
