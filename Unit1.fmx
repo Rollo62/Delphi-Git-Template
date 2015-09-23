@@ -17,7 +17,7 @@ object Form1: TForm1
     object Label1: TLabel
       Position.X = 264.000000000000000000
       Position.Y = 24.000000000000000000
-      Text = 'I was added to GIT'
+      Text = 'I was added to GIT, and I'#39'M a clone'
     end
     object Button1: TButton
       Position.X = 8.000000000000000000
